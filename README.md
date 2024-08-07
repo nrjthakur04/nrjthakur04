@@ -1,6 +1,11 @@
-<img src="https://i.pinimg.com/736x/38/30/2c/38302c69ff0864fcd49d3efe5163c5e9.jpg" style="width: 100%; height: auto%; ">
-<h1 align="center">Hi 👋, My name is Neeraj Thakur</h1>
+<img src="https://www.shutterstock.com/image-photo/analyst-uses-computer-dashboard-data-600nw-2285412737.jpg" style="width: 100%; height: auto;">
+
+<h1 align="center">
+    <span style="animation: move 5s linear infinite;">Hi 👋, My name is Neeraj Thakur</span>
+</h1>
 <h1 align="center">============================================</h1>
+
+
 
 Transforming Data into Insightful Stories
 -----------------------------------------
@@ -25,11 +30,21 @@ href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="htt
 
 ### Skills
 
+- **Data Cleaning & Preparation**:  
+  Proficient in data cleansing techniques, including handling duplicates, missing values, and data validation.
 
-<p align="left">
-<a href="https://fontawesome.com/icons/broom?style=solid" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios-filled/50/000000/broom.png" alt="data cleaning" width="40" height="40" /></a><a
-href="https://fontawesome.com/icons/broom?style=solid" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios-filled/50/000000/broom.png" alt="data cleaning" width="40" height="40" /></a><a
-</p>
+- **Data Manipulation**:  
+  Experienced in sorting, filtering, and transforming datasets; adept with pivot tables and advanced Excel functions (e.g., VLOOKUP, INDEX-MATCH).
+
+- **Statistical Analysis**:  
+  Knowledgeable in statistical methods and techniques for data analysis, including descriptive statistics and hypothesis testing.
+
+- **Data Visualization**:  
+  Skilled in creating informative charts, graphs, and dashboards using tools like Excel and Tableau for clear data presentation.
+
+- **SQL Proficiency**:  
+  Strong ability to write SQL queries for data extraction, manipulation, and analysis.
+
 
 ### Socials
 
