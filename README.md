@@ -3,7 +3,7 @@
 <h1 align="center">
     <img src="https://media.tenor.com/Pw73MyUznwMAAAAj/waves-hello-hi.gif" alt="Moving text" style="width: auto; height: 50px;">, <span style="font-size: 200px; vertical-align: middle;">My name is Neeraj Thakur</span>
 </h1>
-<h1 align="center">============================================</h1>
+
 
 
 
