@@ -51,6 +51,27 @@ href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="htt
 
 <p align="left"> <a href="https://www.github.com/nrjthakur04" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/neeraj-thakur-b70b4b114" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
+
+### Contact Me
+
+<ul style="list-style: none; padding: 0;">
+  <li style="margin-bottom: 15px;">
+    <span style="font-size: 24px; margin-right: 10px;">📍</span>
+    New Delhi, India
+  </li>
+  <li style="margin-bottom: 15px; display: flex; align-items: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" style="width: 24px; height: 24px; margin-right: 10px;">
+    <a href="tel:+918393087464" style="text-decoration: none; color: black;">+91 8393087464</a>
+  </li>
+  <li style="display: flex; align-items: center;">
+    <a href="mailto:nrjthakur04@gmail.com" style="text-decoration: none; color: black; display: flex; align-items: center;">
+      <span style="font-size: 24px; margin-right: 10px;">✉️</span>
+      nrjthakur04@gmail.com
+    </a>
+  </li>
+</ul>
+
+
 ### Badges
 
 <b>Top Repositories</b>
